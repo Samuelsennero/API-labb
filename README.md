@@ -8,5 +8,5 @@ to give the user weather data based on his/her input.
 - Python version 3.7
 - Requests library
 
-## How to run the game
-python weather.py
+## How to run the program
+´python weather.py´
