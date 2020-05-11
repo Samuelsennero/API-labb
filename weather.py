@@ -4,9 +4,9 @@ from config import input_key
 
 city = input('Enter a city: ')
 
-x = input_key()
+link_key = input_key()
 
-url = (x.format(city))
+url = (link_key.format(city))
 
 res = requests.get(url) #413e26530db141f29a0605568691c961
 output = res.json()
