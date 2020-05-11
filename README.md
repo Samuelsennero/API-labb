@@ -9,4 +9,4 @@ to give the user weather data based on his/her input.
 - Requests library
 
 ## How to run the program
-´python weather.py´
+ `python weather.py` 
